@@ -1,8 +1,20 @@
-the code in main.c does the following:
-1.Displays the number of OpenCL platforms on a computer. 
-2.query device info
-3.Create a context with one device 
-4.Create a command queue for the context and device. 
-5.Read the program source code from the provided “source.cl” file and build the program. 
-6.Find and display the number of kernels in the program. 
-7.Create kernels from the program and display all the kernel function names. 
+This is a small project I did in summer 2018 after I finished openGL subject provided in university.
+The program simulates a simple solar system with main planets and asteroids.
+
+Main tecniques used in the program:
+1.texture mapping
+2.GLSL shader program
+3.multi-camera
+
+
+User input:
+1.hold right mouse button to rotate camera.
+2.W,S,A,D key to control movement.
+3.escape key to exit program.
+
+
+GUI:
+I used antweakbar as user interface. By clicking icon on GUI, user can control the following:
+1.by clicking "wireframe", user can toggle between wireframe mode and full-rendering mode.
+2.by clicking "animation", user can toggle between animation mode and still mode.
+3.by clicking "top view", user can toggle between top view and perspective view.
