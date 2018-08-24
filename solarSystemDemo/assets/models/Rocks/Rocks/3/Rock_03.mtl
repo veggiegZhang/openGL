@@ -1,0 +1,12 @@
+newmtl Rock_01
+d 1
+Ns 0.80000001
+Ni 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.21960784 0.21960784 0.21960784
+Km 0.65600002
+map_Kd /Maps/Rock03_JeffersonAF.JPG
+map_Ks /Maps/Rock03bump_JeffersonAF.JPG
+map_Bump /Maps/Rock03bump_JeffersonAF.JPG
+

@@ -1,0 +1,35 @@
+-Product name: Rocks
+Model and texture by JeffersonAF 2017.
+
+-Author name: JeffersonAF.
+
+-Product description:
+This package has four rocks in obj file and their respective textures.
+
+-System requirements: Any software program that can import obj.
+PC, my PC have Win 7, 8 GB Ram, GTX 1050 TI with 4 GB graphic memory.
+
+-Ownership statements: all of the content in this package was created by JeffersonAF.
+
+-Installation: Extract the files.
+1) Start your favorite modelling or rendering program.
+2) Import the model into your scene.
+3)You'll need to resize the model to suit the needs of your scene.
+If necessary, follow the instructions in your software program's manual.
+
+-Limitations: you may use this model in personal and commercial renders and 3D commercial projects. 
+   
+-Files list:
+Rock 01.obj, Rock 02.obj, Rock 03.obj, Rock 04.obj
+
+ 
+  
+
+
+
+
+
+
+
+
+
